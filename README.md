@@ -1,0 +1,2 @@
+# HibernateMavenProWithDAO
+HibernateMavenProWithDAO
